@@ -1,0 +1,7 @@
+.iframe {
+  margin: auto;
+  width: 829px;
+  height: 400px;
+  display: flex;
+  justify-content: center;
+}

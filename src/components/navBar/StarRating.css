@@ -1,0 +1,13 @@
+.star:hover {
+  cursor: pointer;
+}
+
+.stars {
+  background-color: white;
+  border-radius: 10px;
+  width: 69px;
+}
+.navbar {
+  display: flex;
+  justify-content: space-around;
+}
